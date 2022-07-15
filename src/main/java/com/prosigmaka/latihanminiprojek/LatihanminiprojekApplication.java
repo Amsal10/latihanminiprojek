@@ -1,4 +1,4 @@
-package com.prosigmaka.latihanminiprojek.controller;
+package com.prosigmaka.latihanminiprojek;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
